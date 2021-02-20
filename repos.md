@@ -1,1 +1,2 @@
 - mschuwalow/zio-todo-backend
+- mschuwalow/workflow-generator-backend
