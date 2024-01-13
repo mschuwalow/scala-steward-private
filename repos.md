@@ -1,3 +1,4 @@
 - mschuwalow/zio-todo-backend
 - mschuwalow/workflow-generator-backend
 - mschuwalow/scala-jsonforms
+- mschuwalow/play-ziojson
