@@ -12,7 +12,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v4.1.6
+        uses: actions/checkout@v4.1.7
       - id: import_gpg
         name: Import GPG key
         uses: crazy-max/ghaction-import-gpg@v6.1.0
